@@ -7,7 +7,7 @@ newDiv.style.backgroundColor = 'yellow';
 newDiv.style.padding = '20px';
 
 // Add id attribute to the div
-newDiv.getAttribute('id', 'myDiv');
+newDiv.setAttribute('id', 'myDiv');
 
 // Add the div to the body
 var body = document.getElementsByTagName('body')[0];
@@ -41,3 +41,4 @@ newDiv.style.backgroundColor = 'BlueViolet';
 
 // Add a new custom attribute data-status="updated"
 newDiv.setAttribute('data-status', 'updated');
+
