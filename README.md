@@ -1,7 +1,6 @@
-**Project DOM: Dynamic List Management
-**
-**Project Description 
-**
+**Project DOM: Dynamic List Management**
+
+**Project Description**
 This project demonstrates advanced DOM manipulation using pure JavaScript. It focuses on the dynamic creation of elements, style application, and attribute management without hardcoding HTML elements.
 
 Goal 
@@ -16,8 +15,7 @@ Setup Instructions
 - Open index.html in any modern web browser (Chrome, Firefox, or Edge).
 - The JavaScript will execute automatically upon page load.
 
-**JavaScript DOM API Usage 
-**
+**JavaScript DOM API Usage**
 1. document.createElement(): Used to generate the div, ul, and li tags.
 2. Element.setAttribute(): Used to assign the id and the custom data-status attribute.
 3. Node.appendChild(): Used to nest the list within the div and the div within the body.
