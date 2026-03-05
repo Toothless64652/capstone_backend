@@ -20,6 +20,4 @@ Setup Instructions
 2. Element.setAttribute(): Used to assign the id and the custom data-status attribute.
 3. Node.appendChild(): Used to nest the list within the div and the div within the body.
 4. Node.removeChild(): Used to target and delete an item.
-
-
-HTMLElement.style: Used to dynamically apply width, padding, and colors.
+5. HTMLElement.style: Used to dynamically apply width, padding, and colors.
